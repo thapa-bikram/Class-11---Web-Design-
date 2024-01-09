@@ -1,0 +1,27 @@
+Points to Rremember:-
+1). <--! this acts a comment in HTML -->
+	/* Comment for Css */ 
+2). HTMl is not case sensitive.
+	E.g. <h1> = <H1>
+		 <body> = <BODY>
+3).Settings : - toggle word wrap 
+4).Semantic Tags: We can guess the task they are used to perform. <header>, <footer>
+5).Non Semantic tags : We cannot predict, <div> ,<span>
+6).Article Tag
+7).Aside Tag - Used to leave spaces in side for Advertisements.
+8).<div> Used to enclose other tags. It takes full width .
+9). Details elements
+10).Learn Firefox Inspect Element.
+11).Block Elements are those elements that takes up the whole width of the screen.
+12).<span> tag is used to occupy only the needed space.
+13).Margin : It is the space outside the boarder of an element. It creates space between the boarder of an element and adjacent elements.
+14).Padding : It is the space inside the boarder of the element. It creats space between the content of the element and its boarder.
+15).Class & id
+16).Css-3 is the latest CSS,
+17).Two new propertied added to the text-align are ; start, end .
+18).MDN CSS documentation to learn more.
+19)Block elements take 100% space but inline elements take only required space.
+20).Display property : block, inline , inline block, none.
+21).display none le item ko space delete gardincha , visibility: hidden le item ko space preserve garret rakcha.
+
+Continue from 2:48:40
